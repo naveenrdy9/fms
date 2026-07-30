@@ -1,10 +1,10 @@
 # Food Management System (FMS)
 
 ### Login Page
-![Login Page](./main.png)
+![Login Page](./login.png)
 
 ### User Registration Page
-![User Registration Page](./header.png)
+![User Registration Page](./registration.png)
 
 ### Admin Page
-![Admin Page](./logo.png)
+![Admin Page](./admin.png)
